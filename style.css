@@ -1,0 +1,50 @@
+*{
+    font-family:Arial, Helvetica, sans-serif ;
+    text-align: center;
+    background-color: black;
+    border-radius: 30px 30px 30px 30px;
+
+    
+}
+h2{
+    
+  color: aqua;
+     
+}
+
+#peso{
+    color: aqua;
+    border-color: aqua;
+}
+
+#altura{
+    color:aqua;
+    border-color: aqua;
+}
+
+button{
+    color: aqua;
+    border-color: aqua;
+    font-size: medium;
+
+}
+
+
+h5{
+    color: rgb(7, 7, 7);
+    text-align: center;
+    border: 10px solid aqua;
+    background-color: aqua;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+body{
+    color: aqua;
+}
+
+#sexo{
+    color: aqua;
+}
